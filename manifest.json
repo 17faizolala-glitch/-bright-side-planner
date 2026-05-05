@@ -1,0 +1,8 @@
+{
+  "name": "Bright Side Work Planner",
+  "short_name": "Work Planner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff5f8",
+  "theme_color": "#c94f7c"
+}
